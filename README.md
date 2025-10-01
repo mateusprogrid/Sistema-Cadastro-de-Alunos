@@ -1,4 +1,4 @@
-# 📘 Sistema de Cadastro de Aluno – Java (POO)
+# 📘 Sistema de Cadastro de Aluno - Java (POO)
 
 Este projeto foi desenvolvido em **Java** utilizando conceitos de **Programação Orientada a Objetos (POO)**.  
 O sistema tem como objetivo **modelar estudantes (classe `Aluno`)** com atributos como **nome, matrícula, CPF, sexo e notas**.
